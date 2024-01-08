@@ -1,0 +1,2 @@
+---
+BUNDLE_INSTALL__EVENTMACHINE: "--platform=ruby"
