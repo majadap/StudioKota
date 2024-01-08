@@ -9,7 +9,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Landing page'
+    - title: 'Landing page 1'
       url: '/'
     - title: 'All projects'
       url: '/blog/'
